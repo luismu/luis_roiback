@@ -1,0 +1,22 @@
+{
+  "name": "maquetacion-blau",
+  "version": "1.0.0",
+  "description": "maquetacion-blau",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.roiback.com:prueba-tecnica/maquetacion-blau.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
